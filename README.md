@@ -1,6 +1,6 @@
 # Fa-Fa
 #About Me
-Hi there! 👋 I'm Atthifa 
+Hi there!  I'm Atthifa 
 🔐 Cybersecurity Enthusiast | CSE Graduate
 🎓 Computer Science Engineering graduate transitioning to cybersecurity
 🐍 Python & SQL developer 
